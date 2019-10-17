@@ -76,26 +76,30 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="feature-item"><i class="icon-globe text-primary"></i>
+                                <div class="feature-item">
+                                    <i class="icon-globe text-primary"></i>
                                     <h3>Website</h3>
                                     <p class="text-muted">Pembuatan dan pengembangan custom website untuk organisasi bisnis maupun non bisnis<br></p>
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="feature-item"><i class="icon-chart text-primary"></i>
+                                <div class="feature-item">
+                                    <i class="icon-chart text-primary"></i>
                                     <h3>Sistem Informasi<br></h3>
                                     <p class="text-muted">Pembuatan dan pengembangan aplikasi sistem informasi<br></p>
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="feature-item"><i class="icon-screen-desktop text-primary"></i>
+                                <div class="feature-item">
+                                    <i class="icon-screen-desktop text-primary"></i>
                                     <h3>Aplikasi Desktop</h3>
                                     <p class="text-muted">Pembuatan dan pengembangan sistem informasi berbasis aplikasi Desktop
                                         <br></p>
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="feature-item"><i class="icon-user-following text-primary"></i>
+                                <div class="feature-item">
+                                    <i class="icon-user-following text-primary"></i>
                                     <h3>IT Support</h3>
                                     <p class="text-muted">Perancangan dan pemeliharaan infrastruktur komputer dan jaringan
                                         <br></p>
